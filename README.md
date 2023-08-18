@@ -1,2 +1,2 @@
 # StajProjesi
-Monad Yazılım'daki stajım boyunca yaptığım proje
+Monad Yazılım'daki stajımda yaptığım proje
